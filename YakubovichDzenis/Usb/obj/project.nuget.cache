@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "u+0y6k8D6fY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dzeni\\Documents\\kod\\YakubovichDzenis\\Usb\\Usb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dzeni\\.nuget\\packages\\system.codedom\\9.0.1\\system.codedom.9.0.1.nupkg.sha512",
+    "C:\\Users\\dzeni\\.nuget\\packages\\system.management\\9.0.1\\system.management.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
